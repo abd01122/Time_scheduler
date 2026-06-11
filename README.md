@@ -9,7 +9,6 @@
 
 TimeFlow is a **smart task scheduler** that helps you organize your day by priority. Tasks are **level-locked** - you must complete higher priority tasks before unlocking lower ones. Perfect for staying focused and building productive habits!
 
-**🔗 Live Demo:** [https://YOUR_USERNAME.github.io/timeflow-app/](https://YOUR_USERNAME.github.io/timeflow-app/)
 
 ---
 
